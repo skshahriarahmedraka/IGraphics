@@ -9,3 +9,4 @@
  2. copy the GLUT32.DLL to C:\Windows\System32 and C:\Windows\SysWOW64
  3. build ad run it.
   
+#  main source codes are in "iMain.cpp" file and all the images and sounds are in "music" file
